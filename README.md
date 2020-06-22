@@ -9,14 +9,29 @@ You are going to build the following pages:
 1. An overview (main) page with the list/table of 25 coins sorted by the highest market cap
   - You can decide what are relevant data to show in each row
   - This page also contains a search box that enables users to search based on coin name. Search results will replace the default data
+  - You're not required to show the coin icons
+  - Search only based on coin name is sufficient
+  
+Example:
+
+![step 1:](./ui-examples/step1.png?raw=true&width=100)
   
 2. A page showing the coin pairs per exhange
   - This page should contains cards of coin pairs and what exchange they belong to
   - This page data is based on one of the 25 coins that we are showing in step 1
+  - Showing icons is not required
   - If it's not clear, this might help: https://coinmarketcap.com/currencies/bitcoin/markets
+  
+Example:
+
+![step 2:](./ui-examples/step2.png?raw=true)
 
 3. Lastly, a detail page of the coin pair data specific to an exchange
   - This will be a detail view of step 2
+  
+Example:
+
+![step 3:](./ui-examples/step3.png?raw=true)
  
 You will be using React, Typescript and [Apollo Client](https://www.apollographql.com/docs/react/v3.0-beta/). For your convenience we have already configured Apollo Client, so that you can get right to the code. Just fork this repository and you're good to go. The API that you will be using is from bloktap.io. The GraphQL explorer can be accessed via this link https://api.blocktap.io/graphiql.
 
@@ -53,6 +68,7 @@ You can check Blocktap documentation for more help: https://www.blocktap.io/docs
 - Modularity and reusability of your code (think about components)
 - Mobile first responsive implementation of the pages
 - Search
+- Your explanation if you diverted from the assignment, because you had a nicer way of doing things or if something was impossible to achieve
 - *Bonus (optional):* Theme toggle for dark mode
 
 **Time to spend**
