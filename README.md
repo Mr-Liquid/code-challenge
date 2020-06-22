@@ -18,7 +18,7 @@ You are going to build the following pages:
 3. Lastly, a detail page of the coin pair data specific to an exchange
   - This will be a detail view of step 2
  
-You will be using React, Typescript and Apollo Client. For your convenience we have already configured Apollo Client, so that you can get right to the code. The API that you will be using is from bloktap.io. The GraphiQL explorer can be accessed via this link https://api.blocktap.io/graphiql.
+You will be using React, Typescript and [Apollo Client](https://www.apollographql.com/docs/react/v3.0-beta/). For your convenience we have already configured Apollo Client, so that you can get right to the code. The API that you will be using is from bloktap.io. The GraphiQL explorer can be accessed via this link https://api.blocktap.io/graphiql.
 
 This example query will shows you all the data that you will be needing:
 
