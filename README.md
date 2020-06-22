@@ -8,7 +8,7 @@ You are going to build the following pages:
 
 1. An overview (main) page with the list/table of 25 coins sorted by the highest market cap
   - You can decide what are relevant data to show in each row
-  - This page also contains a search box that enables users to search based on coin name. Search results will replace the default data
+  - This page also contains a search box (search icon can be found in ui-examples folder) that enables users to search based on coin name. Search results will replace the default data
   - You're not required to show the coin icons
   - Search only based on coin name is sufficient
   
