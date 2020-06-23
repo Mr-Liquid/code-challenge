@@ -32,6 +32,8 @@ Example:
 Example:
 
 ![step 3:](./ui-examples/step3.png?raw=true)
+
+**How to get started**
  
 You will be using React, Typescript and [Apollo Client](https://www.apollographql.com/docs/react/v3.0-beta/). For your convenience we have already configured Apollo Client, so that you can get right to the code. Just fork this repository and you're good to go. The API that you will be using is from bloktap.io. The GraphQL explorer can be accessed via this link https://api.blocktap.io/graphiql.
 
@@ -73,4 +75,4 @@ You can check Blocktap documentation for more help: https://www.blocktap.io/docs
 
 **Time to spend**
 
-We expect you to spend 6-8 hours to complete this challenge. However you can do the assignment whenever you want within a 24 hour window after you forked the repository. 
+We expect you to spend 6-8 hours to complete this challenge. However you can do the assignment whenever you want within a 24 hour window after you forked the repository. When you're finished send us the url of the forked repository with your code.
